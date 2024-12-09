@@ -25,3 +25,6 @@ replay_pid*
 
 # IntelliJ Files
 /.idea/
+
+# Build Artifacts
+/target/
